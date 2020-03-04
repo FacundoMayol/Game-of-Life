@@ -21,4 +21,4 @@ A simple Conway's Game of Life app made in C++ and SFML.
 
 ## Screenshot
 
-![Screenshot](Images/screenshot.jpg)
+![Screenshot](Images/screenshot.jpg?raw=true)
