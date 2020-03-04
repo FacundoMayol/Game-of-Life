@@ -1,6 +1,6 @@
 # Game of Life
 
-A simple Conway's Game of Life app made in c++ and SFML.
+A simple Conway's Game of Life app made in C++ and SFML.
 
 ## Controls 
 
