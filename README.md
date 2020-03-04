@@ -18,3 +18,7 @@ A simple Conway's Game of Life app made in c++ and SFML.
 - SFML
 - OpenMP support
 - C++11
+
+## Screenshot
+
+![Screenshot](Images/screenshot.jpg)
