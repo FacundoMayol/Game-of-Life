@@ -1,4 +1,4 @@
-# Game-of-Life
+# Game of Life
 
 A simple Conway's Game of Life app made in c++ and SFML.
 
@@ -12,3 +12,9 @@ A simple Conway's Game of Life app made in c++ and SFML.
 - X: zoom out
 - Mouse click: activate/deactivate cell
 - Mouse wheel: smooth zoom
+
+## Dependencies
+
+-SFML
+-OpenMP support
+-C++11
