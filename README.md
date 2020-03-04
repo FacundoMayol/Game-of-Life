@@ -15,6 +15,6 @@ A simple Conway's Game of Life app made in c++ and SFML.
 
 ## Dependencies
 
--SFML
--OpenMP support
--C++11
+- SFML
+- OpenMP support
+- C++11
