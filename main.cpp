@@ -27,7 +27,7 @@ int main() {
     sf::RenderWindow window( sf::VideoMode( WWIDTH, WHEIGHT ), "Conway's Game of Life" );
 
     sf::Font font;
-    if ( !font.loadFromFile( "Fonts\\courbd.ttf" ) )
+    if ( !font.loadFromFile( "Fonts\\cour.ttf" ) )
         std::cerr << "ERROR opening font." << std::endl;
 
     float epochs_frec = STARTF;
@@ -44,7 +44,7 @@ int main() {
     paused_vel_text.setFont( font );
     paused_vel_text.setCharacterSize( 24 );
     paused_vel_text.setFillColor( sf::Color::Red );
-    paused_vel_text.setStyle( sf::Text::Regular );
+    paused_vel_text.setStyle( sf::Text::Bold );
     paused_vel_text.setPosition( 15.0f, 5.0f );
     sf::View camera( sf::Vector2f( WIDTH * 5 / 2, HEIGHT * 5 / 2 ), sf::Vector2f( WWIDTH, WHEIGHT ) );
 
